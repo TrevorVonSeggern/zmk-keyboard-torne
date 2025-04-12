@@ -1,7 +1,7 @@
 if SHIELD_TORNE_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "Torne"
+    default "torne"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y

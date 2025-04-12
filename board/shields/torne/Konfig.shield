@@ -1,5 +1,5 @@
 config ZMK_KEYBOARD_NAME
-    default "Torne"
+    default "torne"
 
 config SHIELD_TORNE_LEFT
     def_bool $(shields_list_contains,torne_left)
