@@ -1,14 +1,11 @@
 file_format: "1"
-id: torne
-name: Torne
+id: corne
+name: Corne
 type: shield
 requires: [pro_micro]
-exposes: [i2c_oled]
 features:
   - keys
-  - display
-  - underglow
   - studio
 siblings:
-  - torne_left
-  - torne_right
+  - corne_left
+  - corne_right
