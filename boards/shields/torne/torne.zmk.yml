@@ -1,11 +1,12 @@
 file_format: "1"
-id: corne
-name: Corne
+id: torne
+name: Torne
 type: shield
+url: https://github.com/TrevorVonSeggern/zmk-keyboard-torne
 requires: [pro_micro]
 features:
   - keys
   - studio
 siblings:
-  - corne_left
-  - corne_right
+  - torne_left
+  - torne_right

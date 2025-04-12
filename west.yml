@@ -1,11 +1,11 @@
 manifest:
   remotes:
-    - name: torne
-      url-base: https://github.com/trevorvonseggern/zmk-torne
+    - name: TrevorVonSeggern
+      url-base: https://github.com/trevorvonseggern
   projects:
     # Together with the above defined remote, this refers to a module located at
     # https://github.com/remote-name/repository-name
-    - name: torne
-      url: https://github.com/TrevorVonSeggern/zmk-torne
+    - name: zmk-keyboard-torne
+      url: https://github.com/TrevorVonSeggern/zmk-keyboard-torne
       # This points to a west manifest file in the remote module for further imports
       import: west.yml
